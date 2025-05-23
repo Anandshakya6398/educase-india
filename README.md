@@ -1,12 +1,51 @@
-# React + Vite
+# PopX Account Settings UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application styled with Tailwind CSS that displays a user profile settings card. It includes features like:
 
-Currently, two official plugins are available:
+- Displaying user name and email
+- Uploading and updating a profile picture
+- Static user bio section
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ React functional component with state management
+- ✅ Tailwind CSS for clean styling
+- ✅ File upload for profile image using `FileReader`
+- ✅ Fully responsive and minimal UI
+
+---
+
+## 🧩 Tech Stack
+
+- React (with Hooks)
+- Tailwind CSS
+- HTML5 File Upload API
+
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/popx-account-settings.git
+   cd popx-account-settings
+   
+2. **Install Dependencies**
+
+   
+     npm install
+   
+4. **Start the development server**
+
+     npm run dev
+
+    or
+
+    npm start
+
+5. **Open in browser**
+
+    Visit: http://localhost:3000
+
